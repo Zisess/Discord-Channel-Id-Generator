@@ -1,4 +1,4 @@
-      static void ChannelIdGenerator(string Id, string Message)
+      static void ChannelIdGenerator(string Id)
         {
             try
             {
